@@ -1,0 +1,1 @@
+SELECT  FROM `myproject-451914.traffic_data.cleaned_accidents` LIMIT 1000

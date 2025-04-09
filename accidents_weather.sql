@@ -1,0 +1,1 @@
+SELECT * FROM `myproject-451914.traffic_data.accidents_by_weather` LIMIT 1000
